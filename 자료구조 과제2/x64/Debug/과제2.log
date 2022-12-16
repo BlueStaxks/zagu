@@ -1,0 +1,5 @@
+﻿  code.c
+D:\과제2\code.c(46,7): warning C4101: 'k' :참조되지 않은 지역 변수입니다.
+D:\과제2\code.c(80,7): warning C4101: 'k' :참조되지 않은 지역 변수입니다.
+D:\과제2\code.c(362,3): warning C4013: 'memset'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  과제2.vcxproj -> D:\과제2\x64\Debug\과제2.exe
